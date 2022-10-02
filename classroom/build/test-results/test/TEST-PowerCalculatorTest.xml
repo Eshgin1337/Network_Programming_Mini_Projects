@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PowerCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-02T15:40:43" hostname="LAPTOP-OE0JAP6Q" time="0.08">
+  <properties/>
+  <testcase name="Cube of any number should be equal to its multiplication with its square" classname="PowerCalculatorTest" time="0.069"/>
+  <testcase name="Negative numbers cannot have square root" classname="PowerCalculatorTest" time="0.002"/>
+  <testcase name="Zero power of any number should be zero" classname="PowerCalculatorTest" time="0.001"/>
+  <testcase name="b power of a should be equal to a multiplied with itself for b times" classname="PowerCalculatorTest" time="0.001"/>
+  <testcase name="Square of a number should be equal to its multiplication with itself" classname="PowerCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
