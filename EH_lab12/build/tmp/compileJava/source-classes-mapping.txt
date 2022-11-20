@@ -1,0 +1,20 @@
+org/example/springprojg2/ReferenceRepository.java
+ org.example.springprojg2.ReferenceRepository
+org/example/springprojg2/Springproj10Application.java
+ org.example.springprojg2.Springproj10Application
+org/example/springprojg2/PostWithReferenceLinkRepository.java
+ org.example.springprojg2.PostWithReferenceLinkRepository
+org/example/springprojg2/PostRepository.java
+ org.example.springprojg2.PostRepository
+org/example/springprojg2/Post.java
+ org.example.springprojg2.Post
+org/example/springprojg2/MediaController.java
+ org.example.springprojg2.MediaController
+org/example/springprojg2/PostWithReferenceId.java
+ org.example.springprojg2.PostWithReferenceId
+org/example/springprojg2/PostWithReferenceLink.java
+ org.example.springprojg2.PostWithReferenceLink
+org/example/springprojg2/Reference.java
+ org.example.springprojg2.Reference
+org/example/springprojg2/PostWithReferenceIdRepository.java
+ org.example.springprojg2.PostWithReferenceIdRepository
