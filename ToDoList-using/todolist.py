@@ -1,7 +1,7 @@
 import socket
 import sys
 import pickle
-from task1.utis import ADDRESS, HEADERSIZE
+from utis import ADDRESS, HEADERSIZE
 
 list_items = []
 
